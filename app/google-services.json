@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "902332853350",
+    "firebase_url": "https://android-notification-13eda.firebaseio.com",
+    "project_id": "android-notification-13eda",
+    "storage_bucket": "android-notification-13eda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902332853350:android:5e72e1c22703c011f211a7",
+        "android_client_info": {
+          "package_name": "com.ransoft.androidnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902332853350-g271tnfs7qd989bvg1fcgknt1igfnu7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ransoft.androidnotification",
+            "certificate_hash": "393a2e97be20954598a36a30a0cd8528c04c4b10"
+          }
+        },
+        {
+          "client_id": "902332853350-20rgfcj4gb8coupqg7r7rsdq5g12ishe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArqyDZDz-U0PffzLuoTHiuLa5hx0132qQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902332853350-20rgfcj4gb8coupqg7r7rsdq5g12ishe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
